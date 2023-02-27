@@ -6,10 +6,12 @@ This project is an implementation of a machine learning model to predict house p
 ## Steps to run the project
 1. Clone the repository to your local machine:
 
-`git clone https://github.com/your_username/predicting-house-prices.git`
+  `git clone https://github.com/your_username/predicting-house-prices.git`
+
 2. Install the necessary libraries by running the following command:
 
-`pip install -r requirements.txt`
+  `pip install -r requirements.txt`
+
 3. Download the dataset from source and place it in the data folder.
 4. Open the Jupyter notebook predicting-house-prices.ipynb in your preferred environment.
 5. Run each cell in the notebook to train the machine learning model and predict house prices.
